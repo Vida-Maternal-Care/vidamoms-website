@@ -1,1 +1,15 @@
 *.swp
+
+# Hugo Generated files
+/public/
+/resources/_gen/
+/assets/jsonconfig.json
+hugo_stats.json
+
+# Hugo executables
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temp lock file
+/.hugo_build.lock
