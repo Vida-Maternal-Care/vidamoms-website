@@ -1,5 +1,7 @@
 # Workflow for building and deploying a Hugo site to S3
 name: Deploy Hugo site to S3
+env:
+  NAME: 'Prod'
 
 on:
   # Runs on pushes targeting the default branch
@@ -31,6 +33,8 @@ jobs:
     env:
       HUGO_VERSION: ${{ vars.HUGO_VERSION }}
     steps:
+      - name: Print name
+        run: echo "Hello $NAME"
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://GitHub.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
