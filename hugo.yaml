@@ -1,9 +1,72 @@
-baseURL: 'https://example.org/'
+baseURL: "" #'https://vidamoms.com/'
 languageCode: 'en-us'
-title: 'Vida Maternal Care'
-theme: 'ananke'
+title: Vida Maternal Care
+theme: Ananke
 
-params:
+#sectionPagesMenu: main      # this adds "Posts menu - and maybe others
+
+menu:
+  main:
+    - identifier: topics
+      name: Topics
+      url: /topics/
+      weight: 10
+#    - parent: topics
+#      identifier: bloodpressure
+#      name: Blood Pressure
+#      url: /topics/bloodpressure/
+#      weight: 11
+#    - parent: topics
+#      identifier: breastfeeding
+#      name: Breastfeeding
+#      url: /topics/breastfeeding/
+#      weight: 12
+#
+  footer:
+  - name: Terms
+    pageRef: /terms
+    weight: 10
+  - name: Privacy
+    pageRef: /privacy
+    weight: 20
+
+taxonomies:
+  topic: topics
+  category: categories
+  tag: tags
+
+params:  
+  #background_color_class: light-green
+  site_logo: img/vida-logo.svg
+  favicon: img/favicon.ico
+
   ananke_socials:
+  - name: vidaRPM
+    url: https://vidaRPM.com/
   - name: twitter
-    url: https://x.com/vida
+    url: https://x.com/vidamaternalcare
+  #- name: github
+  #  url: https://github.com/VidaMaternalCare
+  - name: instagram
+    url: ''
+  - name: youtube
+    url: ''
+  #- name: gitlab
+  #  url: ''
+  #- name: keybase
+  #  url: ''
+  - name: linkedin
+    url: ''
+  #- name: medium
+  #  url: ''
+  #- name: mastodon
+  #  url: ''
+  #- name: slack
+  #  url: ''
+  #- name: stackoverflow
+  #  url: ''
+  - name: facebook
+    url: ''
+  - name: rss
+    url: ''
+

@@ -1,4 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
 *.swp
+#IDEs
+.buildpath
+.project
+.settings
+.build
+.idea
+nbproject/
+
+#Vagrant
+.vagrant/
 
 # Hugo Generated files
 /public/
