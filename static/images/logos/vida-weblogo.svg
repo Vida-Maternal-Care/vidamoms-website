@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="355"
+   height="127"
+   viewBox="0 0 100.18889 35.842223"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="vidaRPM-logo.svg"
+   inkscape:export-filename="vida-logo_web.png"
+   inkscape:export-xdpi="400.05634"
+   inkscape:export-ydpi="400.05634"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Colorize"
+       id="filter4066">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite4052"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix4054" />
+      <feFlood
+         flood-opacity="0"
+         flood-color="rgb(0,180,0)"
+         result="flood1"
+         id="feFlood4056" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend4058" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend4060" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix4062" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite4064" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4068" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4070"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         in="fbSourceGraphic"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix4072"
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood4074"
+         flood-opacity="0"
+         flood-color="rgb(0,255,0)"
+         result="flood1" />
+      <feBlend
+         in2="colormatrix1"
+         id="feBlend4076"
+         in="flood1"
+         mode="multiply"
+         result="blend1" />
+      <feBlend
+         in2="blend1"
+         id="feBlend4078"
+         mode="screen"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix4080"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4082"
+         in="colormatrix2"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4084" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4086"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         in="fbSourceGraphic"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix4088"
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood4090"
+         flood-opacity="0"
+         flood-color="rgb(0,255,0)"
+         result="flood1" />
+      <feBlend
+         in2="colormatrix1"
+         id="feBlend4092"
+         in="flood1"
+         mode="multiply"
+         result="blend1" />
+      <feBlend
+         in2="blend1"
+         id="feBlend4094"
+         mode="screen"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix4096"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4098"
+         in="colormatrix2"
+         operator="in"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.11389"
+     inkscape:cx="100.99863"
+     inkscape:cy="124.65171"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5535"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1314"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="60.333896,-66.706124"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="61.875976,-40.490757"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="61.490456,-51.863601"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="26.624111,1.9569899"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="RPM"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     transform="translate(0,-261.15779)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26705825"
+       id="rect4958"
+       width="132.29167"
+       height="52.916668"
+       x="33.675961"
+       y="11.558842"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3707"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3709"
+         style="font-size:37.3333px"><rect
+           id="rect3711"
+           width="145.71428"
+           height="2780"
+           x="-122.85714"
+           y="-1911.766"
+           style="font-size:37.33333206px" /></flowRegion><flowPara
+         id="flowPara3713"
+         style="font-size:37.3333px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.357143"
+       y="65.678566"
+       id="text3717"><tspan
+         sodipodi:role="line"
+         id="tspan3715"
+         x="45.357143"
+         y="65.678566"
+         style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583"> </tspan></text>
+    <g
+       id="g4966"
+       transform="matrix(1.086229,0,0,1.086229,-12.312888,-5.9493861)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4132"
+         d="m 88.39955,19.646068 c 0.02251,0 8.278573,6.891 14.06627,31.674452 2.3934,-7.00323 6.53116,-26.33325 13.04338,-29.824644 -1.62128,1.831262 -3.34102,3.268642 -4.35759,7.518691 2.06289,-0.0505 4.26126,-1.862073 6.91485,-9.591558 -3.0691,-0.748296 -9.07617,-0.196167 -8.38387,8.109006 -1.96397,4.05565 -3.92795,10.193415 -5.89194,15.195109 C 98.553233,22.578777 88.419517,19.646068 88.39955,19.646068 Z"
+         style="fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.22081766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text3701"
+         y="46.326191"
+         x="53.760056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:25.4px;line-height:1.25;stroke-width:0.264583"
+           y="46.326191"
+           x="53.760056"
+           id="tspan3699"
+           sodipodi:role="line">vidaRPM</tspan></text>
+      <text
+         id="text3705"
+         y="55.269642"
+         x="54.228249"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:7.05556px;line-height:1.25;stroke-width:0.264583"
+           y="55.269642"
+           x="54.228249"
+           id="tspan3703"
+           sodipodi:role="line">Remote Pregnancy Monitoring</tspan></text>
+      <rect
+         style="fill:#91cda8;fill-opacity:1;stroke-width:0.25144508"
+         y="48.369499"
+         x="49.64547"
+         height="0.8018086"
+         width="107.17507"
+         id="rect3719" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.2435797,0,0,0.2435797,11.335444,2.8119808)"><flowRegion
+           id="flowRegion5361"><rect
+             id="rect5363"
+             width="96.974648"
+             height="51.51778"
+             x="367.69553"
+             y="302.27582" /></flowRegion><flowPara
+           id="flowPara5365"
+           style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+    </g>
+  </g>
+  <g
+     id="g5523"
+     inkscape:groupmode="layer"
+     inkscape:label="RPPM whitebg"
+     style="display:inline"
+     transform="translate(0,-261.15779)">
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5487"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.3333px"
+         id="flowRegion5483"><rect
+           style="font-size:37.33333206px"
+           y="-1911.766"
+           x="-122.85714"
+           height="2780"
+           width="145.71428"
+           id="rect5481" /></flowRegion><flowPara
+         id="flowPara5485"
+         style="font-size:37.3333px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       id="text5491"
+       y="65.678566"
+       x="45.357143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583"
+         y="65.678566"
+         x="45.357143"
+         id="tspan5489"
+         sodipodi:role="line"> </tspan></text>
+    <g
+       transform="matrix(1.086229,0,0,1.086229,-12.312888,-5.9493861)"
+       id="g5517">
+      <flowRoot
+         transform="matrix(0.2435797,0,0,0.2435797,11.335444,2.8119808)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5511"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5507"><rect
+             y="302.27582"
+             x="367.69553"
+             height="51.51778"
+             width="96.974648"
+             id="rect5505" /></flowRegion><flowPara
+           id="flowPara5509"
+           style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+    </g>
+    <g
+       id="g5177"
+       transform="translate(0,36.157771)">
+      <rect
+         y="219.82301"
+         x="-190.25467"
+         height="35.842224"
+         width="100.18889"
+         id="rect4907"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="225.29636"
+         x="0.084257975"
+         height="35.842224"
+         width="100.18889"
+         id="rect4907-6"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.75876551,0,0,0.75876551,-20.147044,216.41801)"
+         id="g5535">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03132;stroke-opacity:1"
+           id="rect4618"
+           width="142.82849"
+           height="142.82849"
+           x="-212.16609"
+           y="-174.12776"
+           inkscape:export-filename="/Users/davidvernon/Desktop/vida-v.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="display:inline;fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.239859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -174.01695,8.5678211 c 0.0245,0 8.99243,7.4852039 15.27919,34.4057079 2.59978,-7.607112 7.09434,-28.60394 14.1681,-32.396393 -1.76108,1.98917 -3.62911,3.550493 -4.73334,8.16702 2.24077,-0.05485 4.6287,-2.022638 7.51111,-10.4186289 -3.33375,-0.81282 -9.8588,-0.213082 -9.1068,8.8082379 -2.13332,4.405365 -4.26666,11.072383 -6.4,16.505368 -5.68903,-21.885719 -16.69657,-25.0713119 -16.71826,-25.0713119 z"
+           id="path5493"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.287398"
+           x="-211.64337"
+           y="36.490211"
+           id="text5497"><tspan
+             sodipodi:role="line"
+             id="tspan5495"
+             x="-211.64337"
+             y="36.490211"
+             style="font-size:27.5902px;line-height:1.25;stroke-width:0.287398">vidaRPM</tspan></text>
+        <rect
+           id="rect5503"
+           width="124.35416"
+           height="0.87094778"
+           x="-220.34608"
+           y="39.768044"
+           style="display:inline;fill:#91cda8;fill-opacity:1;stroke-width:0.282285" />
+        <rect
+           id="rect5503-9"
+           width="124.35416"
+           height="0.87094778"
+           x="30.536808"
+           y="56.024551"
+           style="display:inline;fill:#91cda8;fill-opacity:1;stroke-width:0.282285" />
+        <text
+           id="text5521"
+           y="47.095352"
+           x="-220.15953"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:6.35px;line-height:1.25;stroke-width:0.264583"
+             y="47.095352"
+             x="-220.15953"
+             id="tspan5519"
+             sodipodi:role="line">Remote Pregnancy/Postpartum Monitoring</tspan></text>
+        <g
+           id="g946"
+           inkscape:export-filename="/Users/davidvernon/Desktop/favicon.ico.png"
+           inkscape:export-xdpi="42.58218"
+           inkscape:export-ydpi="42.58218"
+           transform="matrix(3.84,0,0,3.84,-384.52136,42.795923)">
+          <path
+             style="display:inline;fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.169626px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 52.562277,-50.05931 c 0.01745,0 6.359371,5.293493 10.80534,24.331466 1.838529,-5.379689 5.017048,-20.228486 10.019564,-22.910488 -1.245433,1.406729 -2.566476,2.510874 -3.347395,5.775668 1.584669,-0.03873 3.273396,-1.430408 5.311819,-7.367995 -2.357613,-0.574811 -6.972071,-0.150667 -6.440263,6.229118 -1.508686,3.11546 -3.017349,7.830307 -4.526028,11.672481 -4.023263,-15.477417 -11.807703,-17.73025 -11.823037,-17.73025 z"
+             id="path938"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccc" />
+        </g>
+        <path
+           style="display:inline;fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.291951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 28.622188,13.757512 c 0.02911,0 10.706753,9.313856 18.192033,42.811067 3.095407,-9.465536 8.446809,-35.591917 16.86912,-40.310867 -2.096815,2.475126 -4.320968,4.417879 -5.63571,10.162233 2.667953,-0.06831 5.511121,-2.516774 8.943037,-12.963914 -3.9693,-1.011393 -11.73829,-0.265136 -10.842932,10.960103 -2.54002,5.481595 -5.080053,13.777376 -7.6201,20.537652 C 41.754038,17.721358 28.648012,13.757512 28.622188,13.757512 Z"
+           id="path5493-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3112px;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.510399"
+           x="67.353783"
+           y="48.307262"
+           id="text5497-9"
+           transform="scale(0.97820012,1.0222857)"><tspan
+             sodipodi:role="line"
+             id="tspan5495-3"
+             x="67.353783"
+             y="48.307262"
+             style="font-size:48.9983px;line-height:1.25;stroke-width:0.510399">vida</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(0,-261.15779)"
+     style="display:none"
+     inkscape:label="RPPM blackbg"
+     inkscape:groupmode="layer"
+     id="g4970">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4976"
+         style="font-size:37.3333px"><rect
+           id="rect4978"
+           width="145.71428"
+           height="2780"
+           x="-122.85714"
+           y="-1911.766"
+           style="font-size:37.33333206px" /></flowRegion><flowPara
+         id="flowPara4980"
+         style="font-size:37.3333px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.357143"
+       y="65.678566"
+       id="text4982"><tspan
+         sodipodi:role="line"
+         id="tspan4984"
+         x="45.357143"
+         y="65.678566"
+         style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583"> </tspan></text>
+    <g
+       id="g4986"
+       transform="matrix(1.086229,0,0,1.086229,-12.312888,-5.9493861)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.2435797,0,0,0.2435797,11.335444,2.8119808)"><flowRegion
+           id="flowRegion4990"><rect
+             id="rect4992"
+             width="96.974648"
+             height="51.51778"
+             x="367.69553"
+             y="302.27582" /></flowRegion><flowPara
+           id="flowPara4994"
+           style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+    </g>
+    <g
+       id="g5156"
+       transform="translate(0,36.157771)">
+      <g
+         id="g5197">
+        <rect
+           y="225.00002"
+           x="4.6149299e-07"
+           height="35.842224"
+           width="100.18889"
+           id="rect4972"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="matrix(0.75876551,0,0,0.75876551,-20.147044,216.41801)"
+           id="g4996">
+          <path
+             style="display:inline;fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.23985854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 76.725433,15.390743 c 0.02445,0 8.992426,7.485204 15.27919,34.405708 2.599781,-7.607112 7.094336,-28.60394 14.168097,-32.396393 -1.76108,1.98917 -3.62911,3.550493 -4.73334,8.16702 2.24077,-0.05485 4.6287,-2.022638 7.51111,-10.418629 -3.33375,-0.81282 -9.858798,-0.213082 -9.106802,8.808238 C 97.710367,28.362052 95.577035,35.02907 93.443692,40.462055 87.754658,18.576336 76.747122,15.390743 76.725433,15.390743 Z"
+             id="path4998"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.287398"
+             x="39.09901"
+             y="43.313133"
+             id="text5000"><tspan
+               sodipodi:role="line"
+               id="tspan5002"
+               x="39.09901"
+               y="43.313133"
+               style="font-size:27.5902px;line-height:1.25;fill:#ffffff;stroke-width:0.287398">vidaRPM</tspan></text>
+          <rect
+             id="rect5004"
+             width="124.35416"
+             height="0.87094778"
+             x="30.396303"
+             y="46.590965"
+             style="display:inline;fill:#91cda8;fill-opacity:1;stroke-width:0.28228453" />
+          <text
+             id="text5006"
+             y="53.918274"
+             x="30.582848"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               style="font-size:6.35px;line-height:1.25;fill:#ffffff;stroke-width:0.264583"
+               y="53.918274"
+               x="30.582848"
+               id="tspan5008"
+               sodipodi:role="line">Remote Pregnancy/Postpartum Monitoring</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5010"
+     inkscape:groupmode="layer"
+     inkscape:label="RPPM darkbg"
+     style="display:none"
+     transform="translate(0,-261.15779)">
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5014"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.3333px"
+         id="flowRegion5016"><rect
+           style="font-size:37.33333206px"
+           y="-1911.766"
+           x="-122.85714"
+           height="2780"
+           width="145.71428"
+           id="rect5018" /></flowRegion><flowPara
+         id="flowPara5020"
+         style="font-size:37.3333px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       id="text5022"
+       y="65.678566"
+       x="45.357143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583"
+         y="65.678566"
+         x="45.357143"
+         id="tspan5024"
+         sodipodi:role="line"> </tspan></text>
+    <g
+       transform="matrix(1.086229,0,0,1.086229,-12.312888,-5.9493861)"
+       id="g5026">
+      <flowRoot
+         transform="matrix(0.2435797,0,0,0.2435797,11.335444,2.8119808)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5028"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5030"><rect
+             y="302.27582"
+             x="367.69553"
+             height="51.51778"
+             width="96.974648"
+             id="rect5032" /></flowRegion><flowPara
+           id="flowPara5034"
+           style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+    </g>
+    <g
+       id="g5146"
+       transform="translate(0,36.157771)">
+      <g
+         id="g5187">
+        <g
+           id="g5036"
+           transform="matrix(0.75876551,0,0,0.75876551,-20.147044,216.41801)">
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             id="path5038"
+             d="m 76.725433,15.390743 c 0.02445,0 8.992426,7.485204 15.27919,34.405708 2.599781,-7.607112 7.094336,-28.60394 14.168097,-32.396393 -1.76108,1.98917 -3.62911,3.550493 -4.73334,8.16702 2.24077,-0.05485 4.6287,-2.022638 7.51111,-10.418629 -3.33375,-0.81282 -9.858798,-0.213082 -9.106802,8.808238 C 97.710367,28.362052 95.577035,35.02907 93.443692,40.462055 87.754658,18.576336 76.747122,15.390743 76.725433,15.390743 Z"
+             style="display:inline;fill:#91cda8;fill-opacity:1;stroke:none;stroke-width:0.23985854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             id="text5040"
+             y="43.313133"
+             x="39.09901"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.287398"
+             xml:space="preserve"><tspan
+               style="font-size:27.5902px;line-height:1.25;fill:#ffffff;stroke-width:0.287398"
+               y="43.313133"
+               x="39.09901"
+               id="tspan5042"
+               sodipodi:role="line">vidaRPM</tspan></text>
+          <rect
+             style="display:inline;fill:#91cda8;fill-opacity:1;stroke-width:0.28228453"
+             y="46.590965"
+             x="30.396303"
+             height="0.87094778"
+             width="124.35416"
+             id="rect5044" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Gruppo;-inkscape-font-specification:Gruppo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="30.582848"
+             y="53.918274"
+             id="text5046"><tspan
+               sodipodi:role="line"
+               id="tspan5048"
+               x="30.582848"
+               y="53.918274"
+               style="font-size:6.35px;line-height:1.25;fill:#ffffff;stroke-width:0.264583">Remote Pregnancy/Postpartum Monitoring</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
