@@ -78,7 +78,7 @@ params:
   # - title: Features
   #   url: /
   - title: About Us
-    url: /
+    url: /about
   - title: News
     url: /
   # - title: Health Education
@@ -102,7 +102,6 @@ params:
   - title: Sign up
     url: /
     button: true
-  sidebar: 
   section1:
     title: Great power comes
     subtitle: with great responsibility
@@ -211,6 +210,8 @@ params:
       column3:
         title: "Blog"
         links:
+        - text: Privacy Policy
+          link: legal
         - text: Latest news
           link: /blog/first
         - text: Tech articles
