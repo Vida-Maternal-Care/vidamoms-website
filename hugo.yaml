@@ -44,8 +44,8 @@ params:
     image: logos/vida-logo.svg
     link: /
     # Default width/height. Uncomment if you need to change
-    width: 28
-    height: 28
+    width: 36
+    height: 36
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -59,7 +59,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/heromom.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
@@ -75,67 +75,34 @@ params:
       url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
-    url: /
+  # - title: Features
+  #   url: /
   - title: About Us
     url: /
   - title: News
     url: /
-  - title: Health Education
-    sublinks:
-    - title: Blood Pressure
-      url: /
-    - title: Breastfeeding
-      url: /
-    - title: Mental Health
-      url: /
-    - title: Diabetes
-      url: /
-    - title: Nutrition
-      url: /
-    - title: Healthy Lifecycle
-      url: /
-    - title: Postpartum
-      url: /
+  # - title: Health Education
+  #   sublinks:
+  #   - title: Blood Pressure
+  #     url: https://www.augusta.edu/institutes/gpi/vidarpm/blood-pressure.php
+  #   - title: Breastfeeding
+  #     url: /
+  #   - title: Mental Health
+  #     url: /
+  #   - title: Diabetes
+  #     url: /
+  #   - title: Nutrition
+  #     url: /
+  #   - title: Healthy Lifecycle
+  #     url: /
+  #   - title: Postpartum
+  #     url: /
   - title: Log in
     url: /
   - title: Sign up
     url: /
     button: true
-  sidebar:
-    # Logo (from static/images/logos/___.svg)
-    logo: fresh-square
-    sections:
-    - title: User
-      icon: user
-      links:
-      - text: Profile
-        url: /
-      - text: Account
-        url: /
-      - text: Settings
-        url: /
-    - title: Messages
-      icon: envelope
-      links:
-      - text: Inbox
-        url: /
-      - text: Compose
-        url: /
-    - title: Images
-      icon: image
-      links:
-      - text: Library
-        url: /
-      - text: Upload
-        url: /
-    - title: Settings
-      icon: cog
-      links:
-      - text: User settings
-        url: /
-      - text: App settings
-        url: /
+  sidebar: 
   section1:
     title: Great power comes
     subtitle: with great responsibility
